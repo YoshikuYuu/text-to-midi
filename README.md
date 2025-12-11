@@ -1,4 +1,4 @@
-#Text-2-Midi-Mini
+# Text-2-Midi-Mini
 
 ## Repository Structure and Dependencies
 
@@ -15,7 +15,7 @@ The evaluation pipeline requires access to the following resources:
 2. **The original text2midi model checkpoint** (available from the official text2midi GitHub repository)  
 3. **GigaMIDI** and **MidiCaps** datasets for evaluation and comparison  
 
-Due to their size, these files could not be included in this repository, as GitHub enforces a 50MB file limit. Users who wish to reproduce our experiments must download these assets separately and update the relevant paths in the evaluation configuration files.
+Due to their size, these files could not be included in this repository, as GitHub enforces a 50MB file limit. To reproduce our experiments downloading these assets separately and updating the relevant paths in the evaluation configuration files is required.
 
 ### Note
 
