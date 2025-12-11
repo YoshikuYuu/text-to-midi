@@ -1,0 +1,13 @@
+torch
+transformers
+huggingface_hub
+miditok
+datasets
+nltk
+tqdm
+pytest
+jsonlines
+st-moe-pytorch
+acceleratesentencepiece
+sentencepiece
+music21
